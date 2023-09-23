@@ -1,5 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif))](https://rishavchanda.io)
-
+![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A Biomedical engineering student at Cairo university</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
