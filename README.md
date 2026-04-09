@@ -15,9 +15,9 @@
 </a>
 
 <a href="mailto:hmdokasha@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40"/>
 </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
