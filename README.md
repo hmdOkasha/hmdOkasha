@@ -8,8 +8,6 @@
 
 - 🔍 I’m actively seeking **internships** or **working student positions** in Dresden or nearby cities
 
-- 📫 Email: 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-okasha-130348290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-okasha-130348290" height="30" width="40" /></a>
