@@ -15,7 +15,7 @@
 </a>
 
 <a href="mailto:hmdokasha@gmail.com">
-<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="gmail" height="30" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" />
 </a>
 
 
