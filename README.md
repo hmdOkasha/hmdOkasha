@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://skillicons.dev/icons?i=linkedin" height="40">](https://linkedin.com/in/ahmed-okasha-130348290)[<img src="https://skillicons.dev/icons?i=gmail" height="40">](mailto:hmdokasha@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40">](https://linkedin.com/in/ahmed-okasha-130348290)&nbsp;[<img src="https://skillicons.dev/icons?i=gmail" height="40">](mailto:hmdokasha@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
