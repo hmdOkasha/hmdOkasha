@@ -10,14 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p>
-  <a href="https://linkedin.com/in/ahmed-okasha-130348290" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:hmdokasha@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahmed-okasha-130348290) | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hmdokasha@gmail.com) |
+|---|---|
 
 <h3 align="left">Languages and Tools:</h3>
 
