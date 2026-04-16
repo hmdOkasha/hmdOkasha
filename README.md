@@ -9,7 +9,6 @@
 - 🔍 I’m actively seeking **internships** or **working student positions** in Dresden or nearby cities
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/ahmed-okasha-130348290" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-okasha-130348290" height="30" width="40" />
 </a>
@@ -20,8 +19,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -100,7 +97,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 
-</p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmdokasha&" alt="hmdokasha" />
